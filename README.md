@@ -1,4 +1,11 @@
-addressok-os-clients
-===============
+addressok-client-libs
+========================
 
-Client libraries for AddressOK
+Библиотеки для подключения сервиса
+[AddressOK](https://github.com/Polar-Fox/addressok).
+
+`addressok.php` --- для сайта на PHP.
+
+`addressok.py` --- для сайта на Python 3.
+
+`addressok_py2.py` --- для сайта на Python 2.
